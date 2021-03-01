@@ -1,6 +1,6 @@
-## 👋 Hello, I am Arimoro Olamilekan Ezekiel
+## 👋 Hello, I am Arimoro Olamilekan Ezekiel (The Code Lord😘)
 
-##	&#x1F4C9; GitHub Stats -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/arimoroolamilekan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/arimoro_olamilekan/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/TheCodeLord) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://dev.to/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/lexitar32)
+##	&#x1F4C9; GitHub Stats -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/arimoroolamilekan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/arimoro_olamilekan/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/TheCodeLord) [<img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FH%2Fhashnode-logo-B114767E70-seeklogo.com.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F394582%2Fhashnode&tbnid=H5TbnGzFvnIXvM&vet=12ahUKEwi24qfcgI7vAhUMRhoKHS6qCnoQMygAegUIARCUAQ..i&docid=HTHIfxWzGCfZ2M&w=300&h=300&q=hashnode%20icon&ved=2ahUKEwi24qfcgI7vAhUMRhoKHS6qCnoQMygAegUIARCUAQ' alt='Hashnode' height='20'>](https://hashnode.com/@Lexitar32) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/lexitar32)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=unclebay143)
 
@@ -12,7 +12,7 @@
 </a>  
 
 <!--- My name is ##Arimoro Olamilekan Ezekiel##, and --->
-&#x263A; Software Developer.
+&#x263A; I am a Software Engineer.
 
 Olamilekan is a solution driven developer that believes in technology being the powerful weapon that will rule the world. I am always eager to use my tech skills to build projects that will provide solution to humanity.
 
