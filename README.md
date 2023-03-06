@@ -10,6 +10,7 @@
 </a>  
 
 <!--- My name is ##Arimoro Olamilekan Ezekiel##, and --->
+
 Olamilekan is a software engineer with 2+ years of professional experience in the tech industry, I have a strong background in Web development, working with technologies such as HTML, CSS, Tailwind, JavaScript, TypeScript, React, Redux, Next.js, Node.js, MongoDB etc
 
 In addition to my technical skills, I also have experience in technical writing and I am able to clearly communicate complex technical concepts to both technical and non-technical audiences. 
