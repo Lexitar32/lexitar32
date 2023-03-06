@@ -1,5 +1,3 @@
-## 👋 Hello, I am Arimoro Olamilekan Ezekiel (The Code Lord😘)
-
 ##	&#x1F4C9; GitHub Stats -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/arimoroolamilekan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/arimoro_olamilekan/?hl=en/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/TheCodeLord) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/lexitar32)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=lexitar32)
@@ -12,8 +10,6 @@
 </a>  
 
 <!--- My name is ##Arimoro Olamilekan Ezekiel##, and --->
-&#x263A; I am a Software Engineer.
-
 Olamilekan is a software engineer with 2+ years of professional experience in the tech industry, I have a strong background in Web development, working with technologies such as HTML, CSS, Tailwind, JavaScript, TypeScript, React, Redux, Next.js, Node.js, MongoDB etc
 
 In addition to my technical skills, I also have experience in technical writing and I am able to clearly communicate complex technical concepts to both technical and non-technical audiences. 
