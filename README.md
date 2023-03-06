@@ -14,26 +14,15 @@
 <!--- My name is ##Arimoro Olamilekan Ezekiel##, and --->
 &#x263A; I am a Software Engineer.
 
-Olamilekan is a solution driven developer that believes in technology being the powerful weapon that will rule the world. I am always eager to use my tech skills to build projects that will provide solution to humanity.
+Olamilekan is a software engineer with 2+ years of professional experience in the tech industry, I have a strong background in Web development, working with technologies such as HTML, CSS, Tailwind, JavaScript, TypeScript, React, Redux, Next.js, Node.js, MongoDB etc
 
-I have learnt how to use some technologies to build amazing stuffs.I am a Full-Stack Software Engineer that can bring together the knowledge of both Front-End and Back-End to solve major problems.
+In addition to my technical skills, I also have experience in technical writing and I am able to clearly communicate complex technical concepts to both technical and non-technical audiences. 
 
-My Skills
-- HTML
-- CSS
-- Sass
-- Bootstrap
-- Git & GitHub
-- JavaScript
-- React.js
-- Redux
-- PHP
-- MySQL
+I am constantly keeping up with the latest industry developments and I am always eager to learn new technologies.
 
-When I am not coding, I love playing guitar, listening to worship songs, reading tech books and watching tech videos. 
+When I am not coding I spend time on YouTube watching videos about different Gadgets, Workspace set up, Cars, Smart Homes and many other interesting areas of life 😁
 
 ### Get in Touch
-* Personal Website: [arimoroportfolio.netlify.app](https://arimoroportfolio.netlify.app/)
 * LinkedIn: [Arimoro Olamilekan](https://www.linkedin.com/in/arimoroolamilekan/)
-* Medium: [My Blog](https://arimoroolamilekan1.medium.com/)
+* Hashnode: [My Blog](https://lexitarblog.hashnode.dev/)
 * Twitter: [The Code Lord](https://twitter.com/TheCodeLord)
